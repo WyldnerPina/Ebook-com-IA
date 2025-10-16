@@ -2,6 +2,9 @@
 
 Ebook com ChatGPT & MidJourney
 
+### ✅ Resultado final em:
+[Clique aqui para ver o ebook.](https://github.com/WyldnerPina/Ebook-com-IA/blob/main/Insert%20Coin%20to%20Start%20HTML.pdf)
+
 
 
 # Relatório de Criação — E-book "Insert Coin to Start <HTML>"
